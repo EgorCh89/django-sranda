@@ -1,0 +1,2 @@
+# django-sranda
+funny věcička
