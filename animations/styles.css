@@ -1,0 +1,28 @@
+html {
+    justify-content: center;
+    background-color: #3F4531;
+}
+h1 {
+    color: #91F9E5;
+}
+main {
+    text-align: center;
+}
+legend {
+    color: #499167;
+}
+p {
+    color: #91F9E5;
+}
+a {
+    color: #499167; 
+}
+#image {
+    max-width: max-content;
+    height: 10rem;
+}
+address {
+ text-align: center;
+ color: #76F7BF;
+}
+
